@@ -1,4 +1,4 @@
-# GroupLearningChallenge Smart Contract
+# GroupLearningChallenge
 
 The **GroupLearningChallenge** is a Web3.0-based smart contract that facilitates group-based learning challenges. It enables the creation of groups, assignment of tasks, and dynamic reward distribution using ERC20 tokens.
 
