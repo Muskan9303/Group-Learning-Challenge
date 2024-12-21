@@ -2,7 +2,7 @@
 
 The **GroupLearningChallenge** is a Web3.0-based smart contract that facilitates group-based learning challenges. It enables the creation of groups, assignment of tasks, and dynamic reward distribution using ERC20 tokens.
 
-
+---
 
 ## Features
 
@@ -14,12 +14,13 @@ The **GroupLearningChallenge** is a Web3.0-based smart contract that facilitates
 ---
 
 **Contract Address**
-0x7190d2300596827918D4537a4D8Aa78c5E3d0599
 
+0x7190d2300596827918D4537a4D8Aa78c5E3d0599
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/5d8494dd-af72-4daf-869c-77b0ed258e48" />
+
+---
 
 **Key Functions**
-
-**Owner Functions**
 
 1. **`createGroup(string memory _name, address[] memory _members)`**
    - Creates a new group.
@@ -41,7 +42,7 @@ The **GroupLearningChallenge** is a Web3.0-based smart contract that facilitates
    - Fetches the details of a task.
 
 ---
-###Future improvement
+**Future improvement**
 
 1. **Task Assignment to Multiple Groups**:
    Allow tasks to be assigned to multiple groups simultaneously.
